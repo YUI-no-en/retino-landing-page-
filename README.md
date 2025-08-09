@@ -17,7 +17,7 @@
 - 🚀 高速な読み込み速度
 
 ## デモ
-[ライブデモを見る](https://YUI-no-en.github.io/retico-landing-page)
+[ライブデモを見る]([https://YUI-no-en.github.io/retico-landing-page](https://github.com/YUI-no-en/retino-landing-page-.git))
 
 ## 使用方法
 1. プロジェクトをクローン
